@@ -1,0 +1,10 @@
+{
+  "extends": ["//"],
+  "tasks": {
+    "tsc": {
+      "outputs": [
+        "../../dist-types/wrappers/aws-genai-plugin-for-backstage-backend-dynamic/**"
+      ]
+    }
+  }
+}
